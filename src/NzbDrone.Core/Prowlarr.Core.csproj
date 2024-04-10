@@ -9,6 +9,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="6.0.25" />
     <PackageReference Include="Microsoft.AspNetCore.WebUtilities" Version="2.2.0" />
     <PackageReference Include="NLog.Targets.Syslog" Version="7.0.0" />
+    <PackageReference Include="Nostr.Client" Version="2.0.0" />
     <PackageReference Include="Npgsql" Version="7.0.6" />
     <PackageReference Include="Polly" Version="8.3.1" />
     <PackageReference Include="Servarr.FluentMigrator.Runner" Version="3.3.2.9" />
